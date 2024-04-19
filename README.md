@@ -1,0 +1,1 @@
+### This repository is in place since MinIO has removed their standalone console image - https://github.com/minio/console/issues/3298
